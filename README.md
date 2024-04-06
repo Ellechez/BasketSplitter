@@ -1,6 +1,6 @@
 Basket Splitter Application
 ============
-<img alt="Img" src="C:\Java\Java Stack\basket-splitter\BasketSplitter.png"/>
+<img alt="Img" src="https://github.com/Ellechez/BasketSplitter/blob/main/BasketSplitter.png"/>
 
 This is a Basket Splitter Application that was created for the recruitment process.
 
